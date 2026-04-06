@@ -2,6 +2,11 @@
 
 A full-featured task management application built with React. Users can create, edit, delete, and filter tasks, with data persisted using local storage.
 
+![Main View](./src/screenshots/Main.png)
+
+## Live Demo
+https://task-tracker-app-blush.vercel.app
+
 ## Features
 
 - Add tasks
@@ -20,9 +25,6 @@ A full-featured task management application built with React. Users can create, 
 - CSS
 
 ## Screenshots
-
-### Main View
-![Main View](./src/screenshots/Main.png)
 
 ### Editing a Task
 ![Edit Task](./src/screenshots/Edit.png)
