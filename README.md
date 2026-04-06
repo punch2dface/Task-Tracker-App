@@ -22,16 +22,16 @@ A full-featured task management application built with React. Users can create, 
 ## Screenshots
 
 ### Main View
-![Main View](./screenshots/Main.png)
+![Main View](./src/screenshots/Main.png)
 
 ### Editing a Task
-![Edit Task](./screenshots/Edit.png)
+![Edit Task](./src/screenshots/Edit.png)
 
 ### Filtered Tasks
-![Filter View](./screenshots/Completed.png)
+![Filter View](./src/screenshots/Completed.png)
 
 ### Empty State
-![Empty State](./screenshots/Empty.png)
+![Empty State](./src/screenshots/Empty.png)
 
 
 ## What I Learned
